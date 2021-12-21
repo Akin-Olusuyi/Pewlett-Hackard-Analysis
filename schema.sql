@@ -36,3 +36,13 @@ CREATE TABLE titles(
 );
 
 select * from departments;
+
+ALTER TABLE dept_emp
+DROP COLUMN dept_no;
+
+ALTER TABLE dept_emp
+Add COLUMN dept_no varchar(4);
+Select * from dept_emp;
+
+Drop table dept_emp;
+
