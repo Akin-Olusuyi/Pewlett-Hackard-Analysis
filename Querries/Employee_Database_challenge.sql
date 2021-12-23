@@ -30,7 +30,6 @@ GROUP BY ui.title
 ORDER BY ui.count DESC;
 
 
-
 -- mentorship eligibility
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
 					e.first_name, 
@@ -47,3 +46,9 @@ FROM employees as e
 		ON(e.emp_no = ti.emp_no)
 WHERE (e.birth_date between '1965-01-01' and '1965-12-31' )
 ORDER BY e.emp_no;
+
+-- mentorship eligibilty count breakdown
+SELECT COUNT (me.emp_no), me.title
+FROM mentorship_eligibility as me
+GROUP BY me.title
+ORDER BY me.count DESC;
