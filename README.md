@@ -31,10 +31,4 @@ In summary when we compare the numbers of employees retiring by titles and the n
 
 <img src="https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Retiring%20Employees%20by%20Title%20Output.png" width="500"/> <img src="https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Mentorship%20Eligibility%20by%20Title%20Output.png" width="500"/>
 
-
-
-
-
-
-	
-		
+The first image is the output of employees retiring while the second image is for employees eligible for mentorship. No doubt there are enough retiring employees to mentor the next generation of employees. However, where the challenge is the huge gap between those retiring and the next generation. For example, from our output there is a  This poses a significant business risk 
