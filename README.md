@@ -29,7 +29,10 @@ Our output is stored in the **"Retiring_Titles"** table.
 
 In summary when we compare the numbers of employees retiring by titles and the numbers of employees eligible for mentorship, there is a huge gap. Take a look at the images below: 
 
-![Retiring Employees](https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Retiring%20Employees%20by%20Title%20Output.png) ![Mentorship](https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Mentorship%20Eligibility%20by%20Title%20Output.png)
+<img src="https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Retiring%20Employees%20by%20Title%20Output.png" width="200"/> <img src="https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Mentorship%20Eligibility%20by%20Title%20Output.png" width="200"/>
+
+
+
 
 
 
