@@ -25,7 +25,7 @@ Our output is stored in the **"Retiring_Titles"** table.
 ![snapshot of code](https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Mentorship%20Eligibility%20code.png). 
 
 
-#Summary
+# Summary
 
 In summary when we compare the numbers of employees retiring by titles and the numbers of employees eligible for mentorship, there is a huge gap. Take a look at the images below: 
 
