@@ -20,9 +20,16 @@ Here is the link to the SQL code used for this analysis ![Code Base](https://git
 ![Here is snapshot of the code used](https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Number%20of%20employees%20retiring%20by%20title%20code.png). 
 Our output is stored in the **"Retiring_Titles"** table.
  
-- Finally, since we have some employees retiring soon, we needed to determine the employess eligible for mentorship. Whom are those born between 1965-01-01 and 1965-12-31. 
+- Finally, since we have some employees retiring soon, we needed to determine the employess eligible for mentorship. Whom are those born between 1965-01-01 and 1965-12-31.
 
 ![snapshot of code](https://github.com/Akin-Olusuyi/Pewlett-Hackard-Analysis/blob/main/Screenshots/Mentorship%20Eligibility%20code.png). 
+
+
+#Summary
+
+In summary when we compare the numbers of employees retiring by titles and the numbers of employees eligible for mentorship, there is a huge gap. Take a look at the images below: 
+
+![Retiring Employees](
 
 	
 		
